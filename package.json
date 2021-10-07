@@ -1,0 +1,21 @@
+{
+    "name": "radium",
+    "displayName": "radium",
+    "description": "A fresh-looking, neon theme for Visual Studio Code. Almost radioactive.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "radium",
+                "uiTheme": "vs-dark",
+                "path": "./themes/radium-color-theme.json"
+            }
+        ]
+    }
+}

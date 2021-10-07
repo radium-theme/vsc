@@ -28,7 +28,7 @@
 		//ActivityBarBadge
 		"activityBarBadge.background": "#7c00c4",
 		//SideBar
-		"sideBarSectionHeader.foreground": "#39ff14",
+		"sideBarSectionHeader.foreground": "#3f00bd",
 		"sideBarTitle.foreground": "#fff2e7",
 		"list.inactiveSelectionBackground": "#fff2e71a",
 		"list.inactiveSelectionForeground": "#fff2e71a",

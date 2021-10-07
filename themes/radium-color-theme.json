@@ -7,7 +7,7 @@
 		"sideBar.background": "#080021",
 		"statusBar.border": "#404040",
 		"input.border": "#a45a49",
-		"menu.border": "#a45a49",
+		"menu.border": "#080021",
 		"titleBar.border": "#ffffff00",
 		"sideBarSectionHeader.border": "#3c3947",
 		"editorBracketMatch.border": "#fff2e700",
@@ -22,12 +22,10 @@
 		"editorGroupHeader.border": "#1111114a",
 		"tab.border": "#261c1e",
 		//ActivityBar
-		"activityBar.foreground": "#080021",
 		"activityBar.background": "#080021",
 		"activityBar.inactiveForeground": "#affed664",
 		"activityBar.activeBackground": "#4fb69c1a",
 		//ActivityBarBadge
-		"activityBarBadge.foreground": "#fce7ff",
 		"activityBarBadge.background": "#7c00c4",
 		//SideBar
 		"sideBarSectionHeader.foreground": "#39ff14",
@@ -180,7 +178,6 @@
 		"pickerGroup.foreground": "#97d4d9",
 		"debugToolBar.background": "#222222",
 		"debugToolBar.border": "#080021",
-		"notifications.foreground": "#080021",
 		"notifications.background": "#000000",
 		"notificationToast.border": "#bc13fe",
 		"notificationsErrorIcon.foreground": "#e68e7b",

@@ -2,6 +2,7 @@
     "name": "radium",
     "displayName": "radium",
     "description": "A fresh-looking, neon theme for Visual Studio Code. Almost radioactive.",
+    "license": "mit",
     "publisher": "AndrewNijmeh",
     "version": "1.0.0",
     "engines": {
@@ -10,6 +11,13 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/radium-theme/vsc.git"
+    },
+    "bugs": {
+        "url": "https://github.com/radium-theme/vsc/issues"
+    },
     "contributes": {
         "themes": [
             {

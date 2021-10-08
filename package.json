@@ -2,6 +2,7 @@
     "name": "radium",
     "displayName": "radium",
     "description": "A fresh-looking, neon theme for Visual Studio Code. Almost radioactive.",
+    "publisher": "AndrewNijmeh",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.60.0"
@@ -17,5 +18,8 @@
                 "path": "./themes/radium-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.100.1"
     }
 }

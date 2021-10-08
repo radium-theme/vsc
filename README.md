@@ -1,7 +1,6 @@
 # ☢️ Radium
 
-<img src="./assets/logo.png"
-width="400"></a>
+
 
 A fresh-looking, neon theme for Visual Studio Code. Almost radioactive.
 

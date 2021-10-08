@@ -7,7 +7,7 @@ A fresh-looking, neon theme for Visual Studio Code. Almost radioactive.
 
 ## Previews
 
-![example](./images/example.png)
+![example](./assets/example.png)
 
 ## ⭐ Install
 

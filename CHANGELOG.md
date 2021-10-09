@@ -2,6 +2,9 @@
 
 All notable changes to radium-theme will be documented in this file.
 
+## 1.1.1
+- Minor fix to package.json, this might fix an issue when installing it.
+
 ## 1.1.0
 - The theme's coloring is closer to the actual radium color.
 - Secondary colors have been added (purple)

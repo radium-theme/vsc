@@ -128,9 +128,10 @@
 		"badge.background": "#ff4ab4",
 		"badge.foreground": "#fff2e7",
 		"terminal.foreground": "#fff2e7",
+		"terminal.background": "#011100",
 		"terminal.selectionBackground": "#fff2e720",
 		"terminalCursor.background": "#fff2e7",
-		"terminalCursor.foreground": "#805b5b",
+		"terminalCursor.foreground": "#fff2e7",
 
 		"terminal.ansiBlack": "#111111",
 		"terminal.ansiBlue": "#2472c8",

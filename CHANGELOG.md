@@ -4,7 +4,7 @@ All notable changes to radium-theme will be documented in this file.
 
 ## 1.1.2
 - Small fix to some properties in the json file, so the theme doesnt bug out.
-- 
+
 ## 1.1.1
 - Minor fix to package.json, this might fix an issue when installing it.
 

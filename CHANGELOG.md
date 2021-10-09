@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "radium" extension will be documented in this file.
+All notable changes to radium-theme will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.1.0
+- The theme's coloring is closer to the actual radium color.
+- Secondary colors have been added (purple)
+- Panels have been tinted to be more consistent with the editor
 
-## [Unreleased]
+## 1.0.0
 
 - Initial release
+- Base theme has been finished.

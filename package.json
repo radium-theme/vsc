@@ -4,7 +4,7 @@
     "description": "A fresh-looking, neon theme for Visual Studio Code. Almost radioactive.",
     "license": "MIT",
     "publisher": "AndrewNijmeh",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "engines": {
         "vscode": "^1.60.0"
     },

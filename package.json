@@ -2,7 +2,7 @@
     "name": "radium",
     "displayName": "radium",
     "description": "A fresh-looking, neon theme for Visual Studio Code. Almost radioactive.",
-    "license": "mit",
+    "license": "MIT",
     "publisher": "AndrewNijmeh",
     "version": "1.1.0",
     "engines": {

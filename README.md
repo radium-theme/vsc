@@ -1,5 +1,5 @@
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/AndrewNijmeh.radium)
-![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/r/AndrewNijmeh.radium1)
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/r/AndrewNijmeh.radium)
 ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/AndrewNijmeh.radium)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/AndrewNijmeh.radium)
 

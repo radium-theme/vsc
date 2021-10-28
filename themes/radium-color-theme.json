@@ -43,7 +43,7 @@
 		"list.focusForeground": "#fff2e7",
 		"statusBar.background": "#011100",
 		"statusBar.noFolderBackground": "#000000",
-    "statusBar.debuggingBackground": "#E1DB3F",
+    "statusBar.debuggingBackground": "#e1653f",
 		"statusBarItem.hoverBackground": "#fff2e75a",
 		"titleBar.activeBackground": "#011100",
 		"titleBar.activeForeground": "#fffafa",
@@ -215,7 +215,7 @@
 		"peekViewTitle.background": "#232f24",
 		"peekViewTitleDescription.foreground": "#feafbe76",
 		"peekViewTitleLabel.foreground": "#fff2e7",
-		"icon.foreground": "#e68e7b",
+		"icon.foreground": "#e4ffde",
 		"checkbox.background": "#232f24",
 		"checkbox.foreground": "#fff2e7",
 		"checkbox.border": "#3c3947",
@@ -290,13 +290,39 @@
 		{
 			"name": "Keyword, Storage",
 			"scope": [
+				"entity.name.type.cpp",
+				"storage.control.clojure",
 				"storage.type",
 				"storage.modifier",
 				"keyword.operator.new.js",
-				"keyword.operator.expression.typeof.js"
+				"keyword.operator.expression.typeof.js",
+				"keyword.import.go", "keyword.package.go", "keyword.function.go", "keyword.type.go", "keyword.struct.go"
 			],
 			"settings": {
 				"foreground": "#9900ff"
+			}
+		},
+
+		{
+			"name": "Keywords such as if/else",
+			"scope": [
+				"keyword.control",
+				"keyword.other.template",
+				"keyword.other.substitution"
+			],
+			"settings": {
+				"foreground": "#bf49c4"
+			}
+		},
+		{
+			"name": "Tag",
+			"scope": [
+				"entity.name.tag",
+				"meta.tag.sgml",
+				"markup.deleted.git_gutter",
+			],
+			"settings": {
+				"foreground": "#baffa9"
 			}
 		},
 		{
@@ -314,32 +340,10 @@
 				"punctuation.accessor",
 				"punctuation.definition.block",
 				"keyword.operator",
-				"punctuation.definition.parameters"
+				"punctuation.definition"
 			],
 			"settings": {
 				"foreground": "#ffffffa2"
-			}
-		},
-		{
-			"name": "Keywords such as if/else",
-			"scope": [
-				"keyword.control",
-				"keyword.other.template",
-				"keyword.other.substitution"
-			],
-			"settings": {
-				"foreground": "#bf49c4"
-			}
-		},
-		{
-			"name": "Tag",
-			"scope": [
-				"entity.name.tag",
-				"meta.tag.sgml",
-				"markup.deleted.git_gutter"
-			],
-			"settings": {
-				"foreground": "#baffa9"
 			}
 		},
 		{
@@ -394,28 +398,15 @@
 				"constant.character",
 				"constant.escape",
 				"variable.parameter",
+				"meta.symbol.clojure",
+				"meta.function-call.arguments",
+				"meta.parens",
 				"keyword.other.unit",
 				"keyword.other"
 			],
 			"settings": {
 				"foreground": "#b950ff",
 				
-			}
-		},
-		{
-			"name": "String, Symbols, Inherited Class, Markup Heading",
-			"scope": [
-				"string",
-				"constant.other.symbol",
-				"constant.other.key",
-				"entity.other.inherited-class",
-				"markup.heading",
-				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
-			],
-			"settings": {
-				"foreground": "#70ea9b",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -486,6 +477,23 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"scope": [
+				"string",
+				"string.quoted.double.go",
+				"constant.other.symbol",
+				"constant.other.key",
+				"entity.other.inherited-class",
+				"markup.heading",
+				"markup.inserted.git_gutter",
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+			],
+			"settings": {
+				"foreground": "#70ea9b",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -701,7 +709,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#efffee"
 			}
 		},
 		{

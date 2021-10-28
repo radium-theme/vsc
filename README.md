@@ -10,7 +10,7 @@
 
 ## 🚀 Install
 1. Go click the extensions tab in Visual Studio Code and search for "radium".
-2. Click install, and make sure the extension is from Andrew Nijmeh with out logo.
+2. Click install, and make sure the extension is from Andrew Nijmeh and the logo is correct.
 3. Enjoy!
 
 ## Terminals & Vim

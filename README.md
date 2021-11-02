@@ -16,7 +16,7 @@
 2. Click install, and make sure the extension is from Andrew Nijmeh and the logo is correct.
 3. Enjoy!
 
-## Terminals & Vim
+## For other IDEs
 
-- [Vim Theme](https://github.com/radium-theme/vim)
-- [Terminals](https://github.com/radium-theme/terminals)
+- [Vim](https://github.com/radium-theme/vim)
+**More coming soon ;)**

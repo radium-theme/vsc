@@ -19,4 +19,5 @@
 ## For other IDEs
 
 - [Vim](https://github.com/radium-theme/vim)
+
 **More coming soon ;)**

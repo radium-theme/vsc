@@ -257,10 +257,13 @@
 		{
 			"name": "Variables",
 			"scope": [
+				
 				"variable",
 				"meta.object-literal.key",
 				"string constant.other.placeholder",
-				"support.variable.property.js"
+				"support.variable.property.js",
+				"keyword.control.lua source.lua",
+				"meta.attribute.python",
 			],
 			"settings": {
 				"foreground": "#f099ff"
@@ -299,6 +302,9 @@
 				"keyword.function.go",
 				"keyword.type.go",
 				"keyword.struct.go",
+				"keyword.operator.expression.in.js",
+				"keyword.operator.lua",
+				"keyword.type.cs"
 			],
 			"settings": {
 				"foreground": "#9900ff"
@@ -356,7 +362,8 @@
 				"meta.function-call",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				"meta.method.groovy"
 			],
 			"settings": {
 				"foreground": "#e5e385"
